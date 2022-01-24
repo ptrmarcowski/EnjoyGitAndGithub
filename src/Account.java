@@ -4,7 +4,7 @@ public class Account {
     private Password password;
 
     public Account(Username username, Password password) {
-          this.username = username;
+           this.username = username;
         this.password = password;
     }
 
