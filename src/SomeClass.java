@@ -4,4 +4,8 @@ public class SomeClass {
         System.out.println("Hello world!");
     }
 
+    private void displayText() {
+        System.out.println("Change in another repo");
+    }
+
 }
